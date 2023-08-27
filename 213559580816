@@ -1,0 +1,8 @@
+// ==UserScript==
+// @name         BLS SCRIPT BOT 2023
+// @namespace    http://tampermonkey.net/
+// @version      2.5
+// @author       YACINE
+// @author       +213559580816
+// @match        https://algeria.blsspainglobal.com/*login*
+// @grant        none
